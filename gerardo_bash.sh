@@ -1,4 +1,4 @@
 #! /bin/bash
-Author: Gerard
+echo "Author: Gerard"
 pwd
 ls
